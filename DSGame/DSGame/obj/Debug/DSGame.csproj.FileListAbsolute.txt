@@ -1,0 +1,10 @@
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\bin\Debug\DSGame.exe.config
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\bin\Debug\DSGame.exe
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\bin\Debug\DSGame.pdb
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\obj\Debug\DSGame.csprojAssemblyReference.cache
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\obj\Debug\DSGame.Properties.Resources.resources
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\obj\Debug\DSGame.csproj.GenerateResource.cache
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\obj\Debug\DSGame.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\obj\Debug\DSGame.exe
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\obj\Debug\DSGame.pdb
+C:\Users\Jonas\Documents\TFMaDS-v2\DSGame\DSGame\obj\Debug\DSGame.Form1.resources
